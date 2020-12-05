@@ -15,7 +15,7 @@ Uczyłem sie troche kilku języków takich jak:
 ### Java Script
 
 - Moim ulubionym serialem jest Mr. Robot
-- Kiedy byłem mały mój wujek uczył mnie programować 😅
+
 
 
 ```
