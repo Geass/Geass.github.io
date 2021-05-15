@@ -1,6 +1,6 @@
 ## Cześć, mam na imię Szymon!
 
-Swoją przygode z programowaniem zacząłem już jakiś czas temu.
+Swoją przygode z programowaniem zacząłem w wieku 11 lat.
 
 ### /////////////////////////////////////////////////////////
 
@@ -14,7 +14,7 @@ Uczyłem sie troche kilku języków takich jak:
 ## Cpp
 ### Java Script
 
-- Moim ulubionym serialem jest Mr. Robot
+- Mr. Robot
 
 
 
