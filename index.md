@@ -1,6 +1,6 @@
-## Cześć, mam na imię Szymon!
+## Geass Clan
 
-Swoją przygode z programowaniem zacząłem w wieku 11 lat.
+Let's creast new beginning
 
 ### /////////////////////////////////////////////////////////
 
@@ -8,7 +8,7 @@ Swoją przygode z programowaniem zacząłem w wieku 11 lat.
 
 
 ```markdown
-Uczyłem sie troche kilku języków takich jak:
+xxxxxxxxxxxxxxxxxxxx
 
 # Python
 ## Cpp
