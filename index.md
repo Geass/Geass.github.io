@@ -1,6 +1,6 @@
 ## Geass Clan
 
-Let's creast new beginning
+
 
 ### /////////////////////////////////////////////////////////
 
@@ -8,7 +8,7 @@ Let's creast new beginning
 
 
 ```markdown
-### xxxxxxxxxxxxxxxxxxxx
+### count
 
 #
 ##
