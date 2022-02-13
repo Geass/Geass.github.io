@@ -21,7 +21,7 @@ Passionated about cybersecurity
 
 # skills.
 
-
+My linkedin: https://www.linkedin.com/in/szymon-zieniewicz-38345b231/
 
 
 ```
