@@ -13,15 +13,15 @@ Passionated about cybersecurity
 
 
 ```markdown
-### Currently working on my:
+## Currently working on my:
 
 # Python
-## Linux
-### Machine Learning
+# Linux
+# Machine Learning
 
-# skills.
+## skills.
 
-My linkedin: https://www.linkedin.com/in/szymon-zieniewicz-38345b231/
+My linkedin: [](url)(url)https://www.linkedin.com/in/szymon-zieniewicz-38345b231/
 
 
 ```
