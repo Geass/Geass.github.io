@@ -13,11 +13,11 @@ Passionated about cybersecurity
 
 
 
-## Currently working on my:
+# Currently working on my:
 
-# - Python
-# - Linux
-# - Machine Learning
+## - Python
+## - Linux
+## - Machine Learning
 
 <a href="https://www.linkedin.com/in/szymon-zieniewicz-38345b231/" target="_blank">
   <button>My LinkedIn</button>
