@@ -20,8 +20,7 @@ Passionated about cybersecurity
 # Machine Learning
 
 ## skills.
+<a href="https://www.linkedin.com/in/szymon-zieniewicz-38345b231/" target="_blank">
+  <button>My LinkedIn</button>
+</a>
 
-[My Linkedin](https://www.linkedin.com/in/szymon-zieniewicz-38345b231/)
-
-
-```
