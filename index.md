@@ -19,6 +19,16 @@ Passionated about cybersecurity
 ## - Linux
 ## - Machine Learning
 
+
+# Skills:
+
+## - Python
+## - Ruby
+
+# Education:
+
+## bachelor degree IT in business WSB Merito 2021-2024
+
 <a href="https://www.linkedin.com/in/szymon-zieniewicz-38345b231/" target="_blank">
   <button>My LinkedIn</button>
 </a>
